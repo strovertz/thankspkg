@@ -33,3 +33,5 @@ Because let’s be honest:
 dpkg -i thanks_0.1-1_all.deb
 thanks
 
+
+-- FUCK GPTTTTTTTTTTTTTTTTTTTTTTTTTTTTT .i.
