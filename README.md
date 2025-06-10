@@ -30,6 +30,6 @@ Because let’s be honest:
 ## 🚀 Usage
 
 ```bash
-pip install thanks-llm
-thanks-llm
+dpkg -i thanks_0.1-1_all.deb
+thanks
 
