@@ -1,0 +1,5 @@
+thanks (0.1-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Gleison Pires <gasilva@inf.ufsm.br>  Tue, 10 Jun 2025 16:01:56 -0300

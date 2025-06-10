@@ -1,0 +1,10 @@
+Package: thanks
+Version: 0.1-1
+Architecture: all
+Maintainer: Gleison Pires <gasilva@inf.ufsm.br>
+Installed-Size: 14
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

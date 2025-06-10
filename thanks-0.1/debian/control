@@ -1,0 +1,16 @@
+Source: thanks
+Section: unknown
+Priority: optional
+Maintainer: Gleison Pires <gasilva@inf.ufsm.br>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.0
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/thanks
+#Vcs-Git: https://salsa.debian.org/debian/thanks.git
+Rules-Requires-Root: no
+
+Package: thanks
+Architecture: all
+Depends: ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
