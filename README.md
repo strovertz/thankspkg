@@ -1,5 +1,7 @@
 # 🖥️ thanks-llm (but actually... thanks, terminal)
 
+JUST REJECT THE NEW. EMBRACE THE CLASSICS!!!!!!!!!!!!
+
 > A wholesome little package to say **thank you**...  
 > But not to who you think.
 
